@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       es-toolkit:
-        specifier: 1.50.0
-        version: 1.50.0
+        specifier: 1.53.0
+        version: 1.53.0
 
 packages:
 
-  es-toolkit@1.50.0:
-    resolution: {integrity: sha512-OyZKhUVvEep9ITEiwHn8GKnMRQIVqoSIX7WnRbkWgJkllCujilqP2rD0u979tkl8wqyc8ICwlc1UBVv/Sl1G6w==}
+  es-toolkit@1.53.0:
+    resolution: {integrity: sha512-3+AYXp9fmJ/UhHBMYj2/U+RaUouMD90SzoItyDOB2Za7W6dB7fQApFGnZPl2MF6K8/Tv1koh1JyirSx/kju6Pw==}
 
 snapshots:
 
-  es-toolkit@1.50.0: {}
+  es-toolkit@1.53.0: {}
